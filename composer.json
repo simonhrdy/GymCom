@@ -1,0 +1,11 @@
+{
+    "name": "betlix/am_relax_data",
+    "autoload": {
+        "psr-4": {
+            "app\\": "."
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
